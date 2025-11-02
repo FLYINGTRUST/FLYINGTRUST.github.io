@@ -44,7 +44,7 @@ Turing's main objective in this paper was to investigate the notion of computabi
 
 ![Turing Machine](/static/image/BENCHMARK.png)
 
-*Figure 1: A representation of a Turing Machine. Source: [Wiki](https://en.wikipedia.org/wiki/Turing_machine).*
+*Figure 1: Overview of the FLYINGTRUST benchmarking pipeline.*
 
 ## Table: Comparison of Computable and Non-Computable Numbers
 
