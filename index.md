@@ -9,7 +9,7 @@ affiliations:
     School of Electronics and Communication Enginnering, Sun Yet-sen University, Shenzhen, China
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 # video: https://www.youtube.com/results?search_query=turing+machine
-code & datasets: https://github.com/GangLi-SYSU/FLYINGTRUST
+code: https://github.com/GangLi-SYSU/FLYINGTRUST
 # data: https://huggingface.co/docs/datasets
 ---
 
