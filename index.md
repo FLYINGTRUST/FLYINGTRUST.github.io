@@ -4,10 +4,10 @@ permalink: /
 
 title: 'FLYINGTRUST: A Benchmark for Quadrotor Navigation Across Scenarios and Vehicles'
 authors:
-    Gang Li^1^, Chunlei Zhai^1^, Teng Wang^1^, Songyuan Li^1^, Shangsong Jiang^2^, and Xiangwei Zhu^1^
+    Gang Li<sup>1</sup>, Chunlei Zhai<sup>1</sup>, Teng Wang<sup>1</sup>, Songyuan Li<sup>1</sup>, Shangsong Jiang<sup>2</sup>, and Xiangwei Zhu<sup>1</sup>
 affiliations:
-    ^1^School of Electronics and Communication Enginnering, Sun Yet-sen University, Shenzhen, China<br>
-    ^2^Tianwei Xunda (Hunan) Technology Co., Ltd., Hunan, China
+    <sup>1</sup>School of Electronics and Communication Enginnering, Sun Yet-sen University, Shenzhen, China<br>
+    <sup>2</sup>Tianwei Xunda (Hunan) Technology Co., Ltd., Hunan, China
 paper: /static/image/flyingtrust.pdf
 # video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/GangLi-SYSU/FLYINGTRUST
